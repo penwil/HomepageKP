@@ -22,7 +22,7 @@ nav {
     align-items: center;
     padding: 10px 20px;
     font-family: "Righteous", sans-serif;
-    font-size: 20px;
+    font-size: 20vw;
 }
 
 nav ul {
@@ -74,7 +74,7 @@ nav .icons img {
   left: 50px;
   color: #E2411F;
   font-family: "Righteous", sans-serif;
-  font-size: 80px;
+  font-size: 70vw;
   line-height: 30px;
 }
 
@@ -85,7 +85,7 @@ nav .icons img {
   transform: translate(-50%, -50%);
   color: #E2411F;
   font-family: "Righteous", sans-serif;
-  font-size: 100px;
+  font-size: 95vw;
   line-height: 40px;
 }
 
@@ -101,7 +101,7 @@ nav .icons img {
   cursor: pointer;
   border-radius: 54px;
   font-family: "Righteous", sans-serif;
-  font-size: 30px;
+  font-size: 30vw;
 }
 
 .button:hover {
