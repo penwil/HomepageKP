@@ -42,8 +42,8 @@ nav ul li a {
     text-decoration: none;
 }
 nav .icons img {
-    width: 30px;
-    height: 30px;
+    width: 35px;
+    height: 35px;
     margin-left: 10px;
 }
 
@@ -93,15 +93,15 @@ nav .icons img {
   background-color: #E2411F;
   border: none;
   color: white;
-  padding: 30px 70px;
+  padding: 25px 65px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin: 14px 6px;
+  margin: 10px 4px;
   cursor: pointer;
   border-radius: 54px;
   font-family: "Righteous", sans-serif;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .button:hover {
