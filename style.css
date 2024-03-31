@@ -42,8 +42,8 @@ nav ul li a {
     text-decoration: none;
 }
 nav .icons img {
-    width: 35px;
-    height: 35px;
+    width: 30px;
+    height: 30px;
     margin-left: 10px;
 }
 
@@ -101,7 +101,7 @@ nav .icons img {
   cursor: pointer;
   border-radius: 54px;
   font-family: "Righteous", sans-serif;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 .button:hover {
